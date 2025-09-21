@@ -115,7 +115,7 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
         <img alt="PostgreSQL" title="PostgreSQL" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
         <img alt="Docker" title="Docker" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
       </div>
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=elt+pipeline+dbt+airflow&sort=updated">
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=topic:data OR topic:platform OR topic:pipeline OR topic:elt OR topic:etl&sort=updated">
         <img alt="Data Platforms" src="https://img.shields.io/badge/Data%20Platforms-00D1FF?style=for-the-badge&labelColor=0A0F1C&logo=databricks&logoColor=white">
       </a><br/>
       <sub>Pipelines, contratos, qualidade e observabilidade.</sub>
@@ -123,12 +123,12 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
     <!-- ANALYTICS & KPIS -->
     <td align="center" width="33%">
       <div>
-        <img alt="Power BI" title="Power BI" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg"/>
+        <img alt="Power BI" title="Power BI" height="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg"/>
         <img alt="Python" title="Python" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
         <img alt="Pandas" title="Pandas" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
         <img alt="Jupyter" title="Jupyter" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
       </div>
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=analytics+kpi+dashboard&sort=updated">
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=topic:analytics OR topic:kpi OR topic:dashboard OR topic:bi&sort=updated">
         <img alt="Analytics & KPIs" src="https://img.shields.io/badge/Analytics%20%26%20KPIs-00B4F0?style=for-the-badge&labelColor=0A0F1C&logo=googleanalytics&logoColor=white">
       </a><br/>
       <sub>Modelagem semântica e painéis orientados à decisão.</sub>
@@ -141,7 +141,7 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
         <img alt="Scikit-learn" title="Scikit-learn" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
         <img alt="Weights & Biases" title="Weights & Biases" height="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weightsandbiases.svg"/>
       </div>
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=mlops+rl+experiment+training&sort=updated">
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=topic:ml OR topic:mlops OR topic:rl OR topic:experiment OR topic:training&sort=updated">
         <img alt="MLOps & RL Labs" src="https://img.shields.io/badge/MLOps%20%26%20RL%20Labs-0098E0?style=for-the-badge&labelColor=0A0F1C&logo=tensorflow&logoColor=white">
       </a><br/>
       <sub>Ambientes visuais, treino leve e reprodutibilidade.</sub>
@@ -156,7 +156,7 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
         <img alt="NGINX" title="NGINX" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
         <img alt="PostgreSQL" title="PostgreSQL" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
       </div>
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=fastapi+api+gateway+auth&sort=updated">
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=topic:api OR topic:system OR topic:backend OR topic:service&sort=updated">
         <img alt="Systems & APIs" src="https://img.shields.io/badge/Systems%20%26%20APIs-0080D0?style=for-the-badge&labelColor=0A0F1C&logo=fastapi&logoColor=white">
       </a><br/>
       <sub>Serviços, gateways e DX consistente.</sub>
@@ -169,7 +169,7 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
         <img alt="Grafana" title="Grafana" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
         <img alt="Prometheus" title="Prometheus" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
       </div>
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=terraform+docker+observability+grafana+prometheus&sort=updated">
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=topic:devops OR topic:infra OR topic:observability OR topic:monitoring OR topic:automation&sort=updated">
         <img alt="DevOps & Observability" src="https://img.shields.io/badge/DevOps%20%26%20Observability-0068C0?style=for-the-badge&labelColor=0A0F1C&logo=grafana&logoColor=white">
       </a><br/>
       <sub>IaC, CI/CD, logs, métricas e tracing.</sub>
@@ -182,7 +182,7 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
         <img alt="FastAPI" title="FastAPI" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
         <img alt="Grafana" title="Grafana" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
       </div>
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=ble+bia+health+monitor&sort=updated">
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=topic:iot OR topic:health OR topic:sensor OR topic:ble OR topic:bia&sort=updated">
         <img alt="IoT / mHealth" src="https://img.shields.io/badge/IoT%20%2F%20mHealth-0050B0?style=for-the-badge&labelColor=0A0F1C&logo=bluetooth&logoColor=white">
       </a><br/>
       <sub>Integrações de dispositivos e dados clínicos utilizáveis.</sub>
@@ -195,9 +195,9 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
         <img alt="Pandas" title="Pandas" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
         <img alt="NumPy" title="NumPy" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
         <img alt="Jupyter" title="Jupyter" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-        <img alt="QuantConnect" title="QuantConnect (ícone SI)" height="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quantconnect.svg"/>
+        <img alt="QuantConnect" title="QuantConnect" height="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quantconnect.svg"/>
       </div>
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=backtest+quant+trading+finance&sort=updated">
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=topic:finance OR topic:trading OR topic:quant OR topic:backtest&sort=updated">
         <img alt="Fin / Quant Research" src="https://img.shields.io/badge/Fin%20%2F%20Quant%20Research-0048A0?style=for-the-badge&labelColor=0A0F1C&logo=quantconnect&logoColor=white">
       </a><br/>
       <sub>Backtests, estudos quantitativos e utilitários financeiros.</sub>
@@ -210,12 +210,12 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
         <img alt="JavaScript" title="JavaScript" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
         <img alt="HTML5" title="HTML5" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
       </div>
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=web+dashboard+frontend+backend&sort=updated">
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=topic:web OR topic:dashboard OR topic:frontend OR topic:backend&sort=updated">
         <img alt="Web Applications" src="https://img.shields.io/badge/Web%20Applications-0A3C6E?style=for-the-badge&labelColor=0A0F1C&logo=react&logoColor=white">
       </a><br/>
       <sub>Aplicações web, dashboards e integrações full-stack.</sub>
     </td>
-    <!-- preenchimento para manter a grade alinhada -->
+    <!-- preenchimento -->
     <td align="center" width="33%">
       <div>&nbsp;</div>
     </td>
