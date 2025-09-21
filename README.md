@@ -224,37 +224,57 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
 
 ---
 
-## Trilhas curadas
+## Trilhas
 
 ### 🔷 Data Science & Platform
 <p>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=elt+pipeline&sort=updated">
-    <img alt="ELT/Pipelines" src="https://img.shields.io/badge/ELT%2FPipelines-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=apacheairflow&logoColor=0A0F1C">
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=elt+pipeline+airflow&sort=updated">
+    <img alt="ELT/Pipelines" src="https://img.shields.io/badge/ELT%2FPipelines-00D1FF?style=flat&labelColor=0A0F1C&logo=apacheairflow&logoColor=white">
   </a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=dbt&sort=updated">
-    <img alt="dbt Models" src="https://img.shields.io/badge/dbt%20Models-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=dbt&logoColor=0A0F1C">
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=dbt+models&sort=updated">
+    <img alt="dbt Models" src="https://img.shields.io/badge/dbt%20Models-00D1FF?style=flat&labelColor=0A0F1C&logo=dbt&logoColor=white">
   </a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=data+quality+contracts&sort=updated">
-    <img alt="Data Quality" src="https://img.shields.io/badge/Data%20Quality-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=testinglibrary&logoColor=0A0F1C">
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=data+quality+contracts+tests&sort=updated">
+    <img alt="Data Quality" src="https://img.shields.io/badge/Data%20Quality-00D1FF?style=flat&labelColor=0A0F1C&logo=checkmarx&logoColor=white">
   </a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=observability+metrics&sort=updated">
-    <img alt="Observability" src="https://img.shields.io/badge/Observability-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=grafana&logoColor=0A0F1C">
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=observability+metrics+logging&sort=updated">
+    <img alt="Observability" src="https://img.shields.io/badge/Observability-00D1FF?style=flat&labelColor=0A0F1C&logo=grafana&logoColor=white">
   </a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=kpis+telecom&sort=updated">
-    <img alt="KPIs/Analytics" src="https://img.shields.io/badge/KPIs%2FAnalytics-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=powerbi&logoColor=0A0F1C">
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=analytics+kpi+dashboard&sort=updated">
+    <img alt="KPIs/Analytics" src="https://img.shields.io/badge/KPIs%2FAnalytics-00D1FF?style=flat&labelColor=0A0F1C&logo=powerbi&logoColor=111111">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=mlops+mlflow+experiment&sort=updated">
+    <img alt="MLOps Minimal" src="https://img.shields.io/badge/MLOps%20Minimal-00D1FF?style=flat&labelColor=0A0F1C&logo=mlflow&logoColor=white">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=rl+reinforcement+visual&sort=updated">
+    <img alt="RL Labs" src="https://img.shields.io/badge/RL%20Labs-00D1FF?style=flat&labelColor=0A0F1C&logo=tensorflow&logoColor=white">
   </a>
 </p>
 
 ### 🔷 Systems Development
 <p>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=fastapi&sort=updated">
-    <img alt="APIs (FastAPI)" src="https://img.shields.io/badge/APIs%20(FastAPI)-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=fastapi&logoColor=0A0F1C">
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=fastapi+api&sort=updated">
+    <img alt="APIs (FastAPI)" src="https://img.shields.io/badge/APIs%20(FastAPI)-00D1FF?style=flat&labelColor=0A0F1C&logo=fastapi&logoColor=white">
   </a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=gateway+auth&sort=updated">
-    <img alt="Gateways/Auth" src="https://img.shields.io/badge/Gateways%2FAuth-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=auth0&logoColor=0A0F1C">
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=gateway+auth+nginx&sort=updated">
+    <img alt="Gateways/Auth" src="https://img.shields.io/badge/Gateways%2FAuth-00D1FF?style=flat&labelColor=0A0F1C&logo=nginx&logoColor=white">
   </a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=dashboard&sort=updated">
-    <img alt="Dashboards/UI" src="https://img.shields.io/badge/Dashboards%2FUI
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=web+dashboard+frontend+backend&sort=updated">
+    <img alt="Web Applications" src="https://img.shields.io/badge/Web%20Applications-00D1FF?style=flat&labelColor=0A0F1C&logo=react&logoColor=white">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=terraform+iac+ci+cd&sort=updated">
+    <img alt="IaC/CI-CD" src="https://img.shields.io/badge/IaC%2FCI--CD-00D1FF?style=flat&labelColor=0A0F1C&logo=terraform&logoColor=white">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=observability+grafana+prometheus&sort=updated">
+    <img alt="SRE/Observability" src="https://img.shields.io/badge/SRE%2FObservability-00D1FF?style=flat&labelColor=0A0F1C&logo=prometheus&logoColor=white">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=apache+kafka+queue+stream&sort=updated">
+    <img alt="Messaging/Streams" src="https://img.shields.io/badge/Messaging%2FStreams-00D1FF?style=flat&labelColor=0A0F1C&logo=apachekafka&logoColor=white">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=redis+cache&sort=updated">
+    <img alt="Caching" src="https://img.shields.io/badge/Caching-00D1FF?style=flat&labelColor=0A0F1C&logo=redis&logoColor=white">
+  </a>
+</p>
 
 ---
 
