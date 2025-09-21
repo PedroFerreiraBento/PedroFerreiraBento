@@ -10,23 +10,10 @@ Tema visual: azul ciano sobre fundo escuro, com acentos “tokyo-night”
 <p align="center">
   <img
     alt="Hero banner"
-    src="https://capsule-render.vercel.app/api
-      ?type=waving
-      &section=header
-      &height=220
-      &text=Pedro%20Bento
-      &desc=Data%20Science%20·%20Data%20Platforms%20·%20Systems
-      &fontAlign=50
-      &fontAlignY=40
-      &descAlign=50
-      &descAlignY=65
-      &color=0:0A0F1C,100:00D1FF
-      &fontColor=FFFFFF"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0F1C,100:00D1FF&text=Pedro%20Bento&desc=Data%20Scientist%20·%20Software%20Developer&descAlignY=65&fontAlignY=40&fontColor=ffffff"
   />
+  
 </p>
-
-<!-- Fallback mínimo se o banner não carregar -->
-<p align="center"><em>Pedro Bento — Data Science · Data Platforms · Systems</em></p>
 
 <!-- ============================= -->
 <!-- HEADLINE · typing mais suave -->
@@ -34,21 +21,7 @@ Tema visual: azul ciano sobre fundo escuro, com acentos “tokyo-night”
 <p align="center">
   <img
     alt="Typing headline"
-    src="https://readme-typing-svg.demolab.com
-      ?font=Inter
-      &weight=700
-      &size=22
-      &duration=5000
-      &pause=2000
-      &center=true
-      &vCenter=true
-      &repeat=true
-      &width=1000
-      &color=00D1FF
-      &background=00000000
-      &lines=Plataformas+de+Dados%3A+ingest%C3%A3o%E2%86%92modelagem%E2%86%92APIs%E2%86%92dashboards
-      ;M%C3%A9tricas%2C+Observabilidade+e+Contratos+de+Dados
-      ;Ci%C3%AAncia+de+Dados+%2B+Desenvolvimento+de+Sistemas%3A+impacto+mensur%C3%A1vel"
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=5000&pause=2000&center=true&vCenter=true&repeat=true&width=1000&color=00D1FF&background=00000000&lines=Plataformas+de+Dados%3A+ingest%C3%A3o%E2%86%92modelagem%E2%86%92APIs%E2%86%92dashboards;M%C3%A9tricas%2C+Observabilidade+e+Contratos+de+Dados;Ci%C3%AAncia+de+Dados+%2B+Desenvolvimento+de+Sistemas%3A+impacto+mensur%C3%A1vel"
   />
 </p>
 
@@ -88,11 +61,9 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=111">
 </p>
 
-> **Princípios:** observabilidade primeiro · contratos de dados · simplicidade que escala · DX como acelerador.
-
 ---
 
-## Destaques (projetos “hero”)
+## Destaques
 > Mini-casos em **3 linhas**: **Contexto → Ação → Impacto**, com status e stack.
 
 <table>
@@ -132,93 +103,205 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
 
 ---
 
-## Hubs de Projetos (navegação estilizada)
-> Clique nas cápsulas para explorar coleções do seu repositório — cada hub abre uma visão filtrada.
+## Hubs de Projetos
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=rl+ml&sort=updated">
-        <img alt="RL/ML" src="https://img.shields.io/badge/Projetos%20de%20RL%2FML-00D1FF?style=for-the-badge&logo=ai&logoColor=111">
+    <!-- DATA PLATFORMS -->
+    <td align="center" width="33%">
+      <div>
+        <img alt="Airflow" title="Apache Airflow" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg"/>
+        <img alt="dbt" title="dbt" height="22" src="https://cdn.simpleicons.org/dbt/FF694B"/>
+        <img alt="PostgreSQL" title="PostgreSQL" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+        <img alt="Docker" title="Docker" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+      </div>
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=elt+pipeline+dbt+airflow&sort=updated">
+        <img alt="Data Platforms" src="https://img.shields.io/badge/Data%20Platforms-00D1FF?style=for-the-badge&labelColor=0A0F1C&logo=databricks&logoColor=white">
       </a><br/>
-      <sub>Ambientes visuais, labs e modelos orientados a experimento.</sub>
+      <sub>Pipelines, contratos, qualidade e observabilidade.</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=api+backend+frontend&sort=updated">
-        <img alt="Sistemas" src="https://img.shields.io/badge/Desenvolvimento%20de%20Sistemas-00A3FF?style=for-the-badge&logo=homeassistant&logoColor=111">
+    <!-- ANALYTICS & KPIS -->
+    <td align="center" width="33%">
+      <div>
+        <img alt="Power BI" title="Power BI" height="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/powerbi.svg"/>
+        <img alt="Python" title="Python" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+        <img alt="Pandas" title="Pandas" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+        <img alt="Jupyter" title="Jupyter" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+      </div>
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=analytics+kpi+dashboard&sort=updated">
+        <img alt="Analytics & KPIs" src="https://img.shields.io/badge/Analytics%20%26%20KPIs-00B4F0?style=for-the-badge&labelColor=0A0F1C&logo=googleanalytics&logoColor=white">
       </a><br/>
-      <sub>APIs, serviços e UIs com foco em clareza e DX.</sub>
+      <sub>Modelagem semântica e painéis orientados à decisão.</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=network+socket+requests&sort=updated">
-        <img alt="Redes" src="https://img.shields.io/badge/Projetos%20de%20Redes-0088FF?style=for-the-badge&logo=cloudflare&logoColor=111">
+    <!-- MLOPS & RL LABS -->
+    <td align="center" width="33%">
+      <div>
+        <img alt="TensorFlow" title="TensorFlow" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+        <img alt="PyTorch" title="PyTorch" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
+        <img alt="Scikit-learn" title="Scikit-learn" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/>
+        <img alt="Weights & Biases" title="Weights & Biases" height="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weightsandbiases.svg"/>
+      </div>
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=mlops+rl+experiment+training&sort=updated">
+        <img alt="MLOps & RL Labs" src="https://img.shields.io/badge/MLOps%20%26%20RL%20Labs-0098E0?style=for-the-badge&labelColor=0A0F1C&logo=tensorflow&logoColor=white">
       </a><br/>
-      <sub>Protocolos, sockets e integrações em baixo nível.</sub>
+      <sub>Ambientes visuais, treino leve e reprodutibilidade.</sub>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=docker&sort=updated">
-        <img alt="Docker" src="https://img.shields.io/badge/Projetos%20Docker-007ACC?style=for-the-badge&logo=docker&logoColor=white">
+    <!-- SYSTEMS & APIs -->
+    <td align="center" width="33%">
+      <div>
+        <img alt="FastAPI" title="FastAPI" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+        <img alt="Python" title="Python" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+        <img alt="NGINX" title="NGINX" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/>
+        <img alt="PostgreSQL" title="PostgreSQL" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+      </div>
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=fastapi+api+gateway+auth&sort=updated">
+        <img alt="Systems & APIs" src="https://img.shields.io/badge/Systems%20%26%20APIs-0080D0?style=for-the-badge&labelColor=0A0F1C&logo=fastapi&logoColor=white">
       </a><br/>
-      <sub>Containers, compose e padrões de build/run.</sub>
+      <sub>Serviços, gateways e DX consistente.</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=django&sort=updated">
-        <img alt="Django" src="https://img.shields.io/badge/Projetos%20Django-0C4B33?style=for-the-badge&logo=django&logoColor=white">
+    <!-- DEVOPS & OBSERVABILITY -->
+    <td align="center" width="33%">
+      <div>
+        <img alt="Terraform" title="Terraform" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/>
+        <img alt="Docker" title="Docker" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+        <img alt="Grafana" title="Grafana" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
+        <img alt="Prometheus" title="Prometheus" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"/>
+      </div>
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=terraform+docker+observability+grafana+prometheus&sort=updated">
+        <img alt="DevOps & Observability" src="https://img.shields.io/badge/DevOps%20%26%20Observability-0068C0?style=for-the-badge&labelColor=0A0F1C&logo=grafana&logoColor=white">
       </a><br/>
-      <sub>Apps web e APIs REST escaláveis com Django.</sub>
+      <sub>IaC, CI/CD, logs, métricas e tracing.</sub>
     </td>
-    <td align="center">
-      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=data+pipeline+dbt+airflow&sort=updated">
-        <img alt="Data Platform" src="https://img.shields.io/badge/Plataforma%20de%20Dados-0A0F1C?style=for-the-badge&logo=databricks&logoColor=00D1FF">
+    <!-- IoT / mHEALTH -->
+    <td align="center" width="33%">
+      <div>
+        <img alt="Bluetooth" title="Bluetooth (BLE)" height="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bluetooth.svg"/>
+        <img alt="Python" title="Python" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+        <img alt="FastAPI" title="FastAPI" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/>
+        <img alt="Grafana" title="Grafana" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"/>
+      </div>
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=ble+bia+health+monitor&sort=updated">
+        <img alt="IoT / mHealth" src="https://img.shields.io/badge/IoT%20%2F%20mHealth-0050B0?style=for-the-badge&labelColor=0A0F1C&logo=bluetooth&logoColor=white">
       </a><br/>
-      <sub>Pipelines, contratos, qualidade e observabilidade.</sub>
+      <sub>Integrações de dispositivos e dados clínicos utilizáveis.</sub>
+    </td>
+  </tr>
+  <tr>
+    <!-- FIN / QUANT RESEARCH -->
+    <td align="center" width="33%">
+      <div>
+        <img alt="Pandas" title="Pandas" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+        <img alt="NumPy" title="NumPy" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/>
+        <img alt="Jupyter" title="Jupyter" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
+        <img alt="QuantConnect" title="QuantConnect (ícone SI)" height="22" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/quantconnect.svg"/>
+      </div>
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=backtest+quant+trading+finance&sort=updated">
+        <img alt="Fin / Quant Research" src="https://img.shields.io/badge/Fin%20%2F%20Quant%20Research-0048A0?style=for-the-badge&labelColor=0A0F1C&logo=quantconnect&logoColor=white">
+      </a><br/>
+      <sub>Backtests, estudos quantitativos e utilitários financeiros.</sub>
+    </td>
+    <!-- WEB APPLICATIONS -->
+    <td align="center" width="33%">
+      <div>
+        <img alt="Django" title="Django" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+        <img alt="React" title="React" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+        <img alt="JavaScript" title="JavaScript" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+        <img alt="HTML5" title="HTML5" height="22" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+      </div>
+      <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=web+dashboard+frontend+backend&sort=updated">
+        <img alt="Web Applications" src="https://img.shields.io/badge/Web%20Applications-0A3C6E?style=for-the-badge&labelColor=0A0F1C&logo=react&logoColor=white">
+      </a><br/>
+      <sub>Aplicações web, dashboards e integrações full-stack.</sub>
+    </td>
+    <!-- preenchimento para manter a grade alinhada -->
+    <td align="center" width="33%">
+      <div>&nbsp;</div>
     </td>
   </tr>
 </table>
 
 ---
 
-## Trilhas curadas (estilo “chips”)
-> Duas trilhas, cada uma com **links rápidos** (chips) para a sua pessoa usuária explorar por tema.
+## Trilhas curadas
 
 ### 🔷 Data Science & Platform
 <p>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=elt+pipeline&sort=updated"><img alt="ELT/Pipelines" src="https://img.shields.io/badge/ELT%2FPipelines-1f2937?style=flat&labelColor=0A0F1C&color=00D1FF"></a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=dbt&sort=updated"><img alt="dbt Models" src="https://img.shields.io/badge/dbt%20Models-1f2937?style=flat&labelColor=0A0F1C&color=00D1FF"></a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=data%20quality%20contracts&sort=updated"><img alt="Data Quality" src="https://img.shields.io/badge/Data%20Quality-1f2937?style=flat&labelColor=0A0F1C&color=00D1FF"></a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=observability%20metrics&sort=updated"><img alt="Observability" src="https://img.shields.io/badge/Observability-1f2937?style=flat&labelColor=0A0F1C&color=00D1FF"></a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=kpis%20telecom&sort=updated"><img alt="KPIs/Analytics" src="https://img.shields.io/badge/KPIs%2FAnalytics-1f2937?style=flat&labelColor=0A0F1C&color=00D1FF"></a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=elt+pipeline&sort=updated">
+    <img alt="ELT/Pipelines" src="https://img.shields.io/badge/ELT%2FPipelines-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=apacheairflow&logoColor=0A0F1C">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=dbt&sort=updated">
+    <img alt="dbt Models" src="https://img.shields.io/badge/dbt%20Models-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=dbt&logoColor=0A0F1C">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=data+quality+contracts&sort=updated">
+    <img alt="Data Quality" src="https://img.shields.io/badge/Data%20Quality-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=testinglibrary&logoColor=0A0F1C">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=observability+metrics&sort=updated">
+    <img alt="Observability" src="https://img.shields.io/badge/Observability-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=grafana&logoColor=0A0F1C">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=kpis+telecom&sort=updated">
+    <img alt="KPIs/Analytics" src="https://img.shields.io/badge/KPIs%2FAnalytics-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=powerbi&logoColor=0A0F1C">
+  </a>
 </p>
 
 ### 🔷 Systems Development
 <p>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=FastAPI&sort=updated"><img alt="APIs (FastAPI)" src="https://img.shields.io/badge/APIs%20(FastAPI)-1f2937?style=flat&labelColor=0A0F1C&color=00D1FF"></a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=gateway%20auth&sort=updated"><img alt="Gateways/Auth" src="https://img.shields.io/badge/Gateways%2FAuth-1f2937?style=flat&labelColor=0A0F1C&color=00D1FF"></a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=dashboard&sort=updated"><img alt="Dashboards/UI" src="https://img.shields.io/badge/Dashboards%2FUI-1f2937?style=flat&labelColor=0A0F1C&color=00D1FF"></a>
-  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=iac%20terraform&sort=updated"><img alt="IaC/CI-CD" src="https://img.shields.io/badge/IaC%2FCI--CD-1f2937?style=flat&labelColor=0A0F1C&color=00D1FF"></a>
-</p>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=fastapi&sort=updated">
+    <img alt="APIs (FastAPI)" src="https://img.shields.io/badge/APIs%20(FastAPI)-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=fastapi&logoColor=0A0F1C">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=gateway+auth&sort=updated">
+    <img alt="Gateways/Auth" src="https://img.shields.io/badge/Gateways%2FAuth-0A0F1C?style=for-the-badge&labelColor=00D1FF&logo=auth0&logoColor=0A0F1C">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories&q=dashboard&sort=updated">
+    <img alt="Dashboards/UI" src="https://img.shields.io/badge/Dashboards%2FUI
 
 ---
 
-## Métricas (tema único)
-<p>
-  <img height="165" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=PedroFerreiraBento&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true"/>
-  <img height="165" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=PedroFerreiraBento&theme=tokyonight&hide_border=true"/>
-  <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFerreiraBento&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+## Métricas
 
-> Exponha só o que te representa **agora** (linguagens, ritmo de contribuição e repositórios “pinados”).
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Stats amplo (linha inteira) -->
+      <img
+        alt="GitHub Stats"
+        height="180"
+        src="https://github-readme-stats.vercel.app/api?username=PedroFerreiraBento&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=true&card_width=800"
+      />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <!-- Streak à esquerda -->
+      <img
+        alt="Streak"
+        height="180"
+        src="https://github-readme-streak-stats.herokuapp.com?user=PedroFerreiraBento&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
+      />
+    </td>
+    <td align="center">
+      <!-- Linguagens à direita, mais denso e largo -->
+      <img
+        alt="Top Languages"
+        height="180"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFerreiraBento&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=420"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Conteúdo (artigos, talks)
+<!--
+## Conteúdo
 - **[Título do Artigo/Post]** — por que ler em 1 linha (YYYY)  
 - **[Título da Palestra/Podcast]** — principal insight em 1 linha (YYYY)  
 - **[Case/Tutorial]** — o que resolve e para quem (YYYY)
 
 ---
+
+-->
 
 <!-- ============================= -->
 <!-- RODAPÉ · wave + last updated -->
