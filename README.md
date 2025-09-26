@@ -60,6 +60,23 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white">
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=111">
 </p>
+<a href="https://github.com/PedroFerreiraBento?tab=stars">
+  <img src="./m-topics-achievements.svg" alt="Starred Topics · Achievements" width="420" style="max-width:100%; margin:4px;">
+</a>
+<p align="center">
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories">
+    <img src="./m-licenses-stars.svg" alt="Repository Licenses · Recently Starred" width="420" style="max-width:100%; margin:4px;">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PedroFerreiraBento?tab=repositories">
+    <img src="./m-langs.svg" alt="Languages (Most · Recently used)" width="420" style="max-width:100%; margin:4px;">
+  </a>
+  <a href="https://github.com/PedroFerreiraBento?tab=overview">
+    <img src="./m-isocalendar.svg" alt="Isometric Commit Calendar (half-year)" width="420" style="max-width:100%; margin:4px;">
+  </a>
+</p>
 
 ---
 
