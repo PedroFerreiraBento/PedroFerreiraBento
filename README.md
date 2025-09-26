@@ -280,36 +280,9 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
 
 ## Métricas
 
-<table>
-  <tr>
-    <td colspan="2" align="center">
-      <!-- Stats amplo (linha inteira) -->
-      <img
-        alt="GitHub Stats"
-        height="180"
-        src="https://github-readme-stats.vercel.app/api?username=PedroFerreiraBento&show_icons=true&include_all_commits=true&count_private=true&hide_title=true&theme=tokyonight&hide_border=true&card_width=800"
-      />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <!-- Streak à esquerda -->
-      <img
-        alt="Streak"
-        height="180"
-        src="https://github-readme-streak-stats.herokuapp.com?user=PedroFerreiraBento&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"
-      />
-    </td>
-    <td align="center">
-      <!-- Linguagens à direita, mais denso e largo -->
-      <img
-        alt="Top Languages"
-        height="180"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFerreiraBento&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&card_width=420"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./github-metrics.svg" alt="Metrics" />
+</p>
 
 ---
 
