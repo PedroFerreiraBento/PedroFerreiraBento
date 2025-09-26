@@ -281,8 +281,9 @@ Transformo **dados em decisões confiáveis** ponta a ponta: ingestão → model
 ## Métricas
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="Metrics" />
+  <img src="./github-metrics.svg" alt="Metrics" style="width:100%; max-width:1000px;"/>
 </p>
+
 
 ---
 
