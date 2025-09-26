@@ -1,15 +1,14 @@
 name: Metrics
 on:
-  schedule: [{ cron: "0 0 * * *" }]   # atualiza diariamente
-  workflow_dispatch:                  # permite rodar manualmente
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
 permissions:
-  contents: write                     # necessário para salvar os SVGs no repo
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # JSON 1 — Topics (icons per activity) + Achievements (detailed)
       - name: Topics + Achievements
         uses: lowlighter/metrics@latest
         with:
@@ -26,7 +25,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
 
-      # JSON 2 — Repository Licenses + Recently Starred
       - name: Licenses + Recently Starred
         uses: lowlighter/metrics@latest
         with:
@@ -42,7 +40,6 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 8
 
-      # JSON 3 — Languages (Most used + Recently used)
       - name: Languages (Most + Recent)
         uses: lowlighter/metrics@latest
         with:
@@ -56,10 +53,7 @@ jobs:
           plugin_languages_sections: most-used, recently-used
           plugin_languages_limit: 8
           plugin_languages_details: percentage
-          # Se quiser análise profunda depois, adicione:
-          # plugin_languages_indepth: yes
 
-      # JSON 4 — Isometric commit calendar (half-year)
       - name: Isometric Commit Calendar (half-year)
         uses: lowlighter/metrics@latest
         with:
